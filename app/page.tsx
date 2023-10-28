@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div>Hello</div>;
+  return (
+    <div>
+      <h1 className="h1-bold">Nextjs</h1>
+    </div>
+  );
 }
